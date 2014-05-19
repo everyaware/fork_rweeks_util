@@ -8,9 +8,9 @@ with the following coordinates
 
 ```XML
 <dependency>
-	<groupId>com.newbrightidea.util</groupId>
-	<artifactId>util-core</artifactId>
-	<version>2013.02.22</version>
+	<groupId>com.newbrightidea</groupId>
+	<artifactId>util</artifactId>
+	<version>2014.05.19</version>
 </dependency>
 ```
 
