@@ -4,10 +4,10 @@ We have forked the rweeks/util and uploaded it to our Maven repository at
   
 with the following coordinates:
 
-```xml
+```XML
 <dependency>
 	<groupId>com.newbrightidea.util</groupId>
-  <artifactId>util-core</artifactId>
+	<artifactId>util-core</artifactId>
 	<version>2013.02.22</version>
 </dependency>
 ```
