@@ -1,8 +1,8 @@
-We have forked the rweeks/util and uploaded it to our Maven repository at
+We have forked the **rweeks/util** project and uploaded it to our Maven repository at
 
   dev.ubicon.eu/mvn-repository
   
-with the following coordinates:
+with the following coordinates
 
 ```XML
 <dependency>
@@ -11,6 +11,8 @@ with the following coordinates:
 	<version>2013.02.22</version>
 </dependency>
 ```
+
+in order to use it in our code related to the EveryAware (http://cs.everyaware.eu) and the Ubicon (http://ubicon.eu) projects.
 
 # Original README #
 
