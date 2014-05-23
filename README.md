@@ -1,7 +1,7 @@
 We have forked the **rweeks/util** project and uploaded it to our Maven repository at
 
 ```
-dev.ubicon.eu/mvn-repository
+http://code.ubicon.eu/mvn-repo
 ```  
 
 with the following coordinates
